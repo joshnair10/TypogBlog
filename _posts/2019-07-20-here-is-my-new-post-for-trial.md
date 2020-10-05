@@ -6,7 +6,7 @@ header_feature_image: ../uploads/premier-league-logo.jpg
 caption: https://www.prweek.com/article/1403015/premier-league-search-sign-comms-agency-ahead-new-season
 comments: false
 ---
-The Premier League is the most watched football league in the world, so it's only natural that their logo plays a big part in the advertising and promotion of the league worldwide. 
+The Premier League is the most watched football league in the world, so it's only natural that their logo plays a big part in the advertising and promotion of the league worldwide. The old logos of this colossal sports league Seemed to follow a very similar colour theme, going along the lines of 
 
 ![Here is a book](../uploads/pages.jpg)
 
