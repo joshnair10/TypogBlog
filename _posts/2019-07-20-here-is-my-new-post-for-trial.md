@@ -1,17 +1,12 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: How the PL logo has kicked on
+date: 2020-10-05T15:57:44.896Z
+header_feature_image: ../uploads/premier-league-logo.jpg
+caption: https://www.prweek.com/article/1403015/premier-league-search-sign-comms-agency-ahead-new-season
+comments: false
 ---
-
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
-
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
-
+The Premier League is the most watched football league in the world, so it's only natural that their logo plays a big part in the advertising and promotion of the league worldwide. 
 
 ![Here is a book](../uploads/pages.jpg)
 
