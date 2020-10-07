@@ -4,7 +4,7 @@ header_text: Typography in Sports
 footer_text: Copyright 2020 Joshua Nair
 header_feature_image: ../uploads/ucl-night-old-trafford.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/website-logo-2.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
