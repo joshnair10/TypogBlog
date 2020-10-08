@@ -16,4 +16,4 @@ The 4 logos displayed shows a gradual development of a very similar logo, so for
 
 ![](../uploads/premier-league-logo.jpg "New Premier League Logo")
 
-The new logo features a lion's head followed by the Premier League lettering, this time the font being used is a bolder Radikal. It gives the typography a more modern feel, getting rid of the flared serifs, instead adopting
+The new logo features a lion's head followed by the Premier League lettering, this time the font being used is a bolder Radikal. It gives the typography a more modern feel, getting rid of the flared serifs, instead adopting letters with sharper finishes
