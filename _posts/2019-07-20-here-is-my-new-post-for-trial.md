@@ -10,11 +10,9 @@ The Premier League is the most watched football league in the world, so it's onl
 
 ![](../uploads/old-pl-logos-2.jpg "Previous Premier League Logos")
 
-The 4 logos displayed shows a gradual development of a very similar logo, so for comparison we will shift the focus to the most recently used logo, that was introduced in 2007 and replaced in 2016.
+The 4 logos displayed shows a gradual development of a very similar logo, so for comparison we will shift the focus to the most recently used logo, that was introduced in 2007 and replaced in 2016. 
 
 ## Here is a an image
-
-
 
 ![Wooden Type](../uploads/log.jpg)
 
