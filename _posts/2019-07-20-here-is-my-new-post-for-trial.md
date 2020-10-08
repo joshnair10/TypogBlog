@@ -10,7 +10,7 @@ The Premier League is the most watched football league in the world, so it's onl
 
 ![](../uploads/old-pl-logos-2.jpg "Previous Premier League Logos")
 
-The 4 logos displayed shows a gradual development of a very similar logo, so for comparison we will shift the focus to the most recently used logo, that was introduced in 2007 and replaced in 2016. 
+The 4 logos displayed shows a gradual development of a very similar logo, so for comparison we will shift the focus to the most recently used logo, that was introduced in 2007 and replaced in 2016. Compared to all the pre-2007 logos, this one uses a bolder logo of a lion, with a more confident stance standing over a football. The typeface used is a type of sans seri
 
 ## Here is a an image
 
