@@ -8,11 +8,13 @@ comments: false
 ---
 The Premier League is the most watched football league in the world, so it's only natural that their logo plays a big part in the advertising and promotion of the league worldwide. The old logos of this colossal sports league seemed to follow a very similar colour theme, going with base colours of white, blue and red.
 
-![](../uploads/old-pl-logos.jpg)
+![](../uploads/old-pl-logos-2.jpg "Previous Premier League Logos")
 
-
+The 4 logos displayed shows a gradual development of a very similar logo, so for comparison we will shift the focus to the most recently used logo, that was introduced in 2007 and replaced in 2016.
 
 ## Here is a an image
+
+
 
 ![Wooden Type](../uploads/log.jpg)
 
