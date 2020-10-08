@@ -2,7 +2,7 @@
 layout: post
 title: How the PL logo has kicked on
 date: 2020-10-05T15:57:44.896Z
-header_feature_image: ../uploads/premier-league-logo.jpg
+header_feature_image: ../uploads/pl-logo-on-shirt.jpg
 caption: https://www.prweek.com/article/1403015/premier-league-search-sign-comms-agency-ahead-new-season
 comments: false
 ---
