@@ -2,7 +2,7 @@
 layout: post
 title: The best World Cup logo ever?
 date: 2020-10-12T17:36:57.095Z
-header_feature_image: ../uploads/fifa-reveals-official-russia-2018-world-cup-logo-design-2.jpg
+header_feature_image: ../uploads/wc2018-logo-660x371.jpg
 caption: https://en.wikipedia.org/wiki/2018_FIFA_World_Cup
 comments: true
 ---
