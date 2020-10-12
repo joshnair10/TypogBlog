@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: All about me and my aim with Typog Blog
+title: About me and my aim with The Typog Blog
+subtitle: ""
 permalink: /about/
 date: 2020-10-12T16:53:57.486Z
 header_feature_image: ../uploads/me-at-united-game.jpg
