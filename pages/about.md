@@ -1,20 +1,15 @@
 ---
 layout: page
 title: About
+subtitle: All about me and my aim with Typog Blog
 permalink: /about/
-date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+date: 2020-10-12T16:53:57.486Z
+header_feature_image: ../uploads/me.jpg
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+Hello and welcome to The Typog Blog! I'm Joshua Nair and I study Media, Journalism and Publishing at Oxford Brookes University. I will be posting blog articles that analyse sports logos, focusing on the effectiveness of typography and how much of a difference it can make to have good typography in a logo among other things, such as colours and shapes. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+My blog will very much be centered around sports, as I feel logos have such a big part to play in advertising and bringing attention to a certain team/competition/league, especially to newcomers in a sport. I will be sharing on my views on these logos and explaining why the logos and typography used will either benefit or limit the organisation behind it.
