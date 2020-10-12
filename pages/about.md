@@ -4,7 +4,7 @@ title: About
 subtitle: All about me and my aim with Typog Blog
 permalink: /about/
 date: 2020-10-12T16:53:57.486Z
-header_feature_image: ../uploads/me.jpg
+header_feature_image: ../uploads/me-at-united-game.jpg
 published: true
 tags: null
 description: null
