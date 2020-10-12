@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me and my aim with The Typog Blog
+title: About Me and Typog Blog
 subtitle: ""
 permalink: /about/
 date: 2020-10-12T16:53:57.486Z
