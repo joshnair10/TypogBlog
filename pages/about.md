@@ -10,4 +10,4 @@ tags: null
 description: null
 show: false
 ---
-Hello and welcome to The Typog Blog!
+Hello and welcome to The Typog Blog! I'm Joshua Nair and I am a student at Oxford Brookes University.
