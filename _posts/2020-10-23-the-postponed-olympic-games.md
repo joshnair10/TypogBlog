@@ -1,0 +1,8 @@
+---
+layout: post
+title: The Postponed Olympic Games
+date: 2020-10-23T13:53:28.745Z
+header_feature_image: ../uploads/tokyo-2020-olympics-logo.jpg
+comments: true
+---
+The Tokyo 2020 Olympic Games was scheduled to take place in the summer of 2020, but was postponed on the 24th March to the summer of 2021. As the biggest sporting event in the world, the logo accompanying it is sure to come under intense scruntiny, as a symbol of the event that would be plastered over walls, coming up in advertisements
