@@ -120,8 +120,8 @@ body {
 
 /* Fact Picture */
 .fact_image {
-	max-width: 500px;
-	border: black solid 5px;
+	max-width: 432px;
+	border: black solid 8px;
 
 	display: block;
 	margin: 20px auto 0 auto;
