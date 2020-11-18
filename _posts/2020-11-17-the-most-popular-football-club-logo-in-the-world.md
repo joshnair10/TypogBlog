@@ -2,7 +2,7 @@
 layout: post
 title: The most popular football club logo in the world
 date: 2020-10-26T16:36:53.856Z
-header_feature_image: ../uploads/man-united-logo.png
+header_feature_image: ../uploads/skysports-football-manchester-united_4996524.jpg
 comments: true
 ---
 Manchester United is the most supported football club in the world. It boasts the highest shirt sales of any club with their millions of fans all over the world. Hand in hand with this is its very noticeable and iconic club logo, which features the club's signature red devil as well as a ship to pay homage to the roots of the city as a shipping port. 
