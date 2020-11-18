@@ -9,7 +9,7 @@ Manchester United is the most supported football club in the world. It boasts th
 
 The logo can be seen in multiple advertisements in different regions of the world such as Melitta coffee or Mlily mattresses and pillows, with companies often flaunting their sponsorship with the club by displaying the badge in photo and video adverts. But what makes it stand out so much? We could possibly attribute that to the colour scheme of a brighter shade of red and a slightly darker yellow, combining to make the prestigious club badge.
 
-![](../uploads/manchester-united-20-21-home-kit-15-.jpg "Man United players Marcus Rashford and Scott McTominay model the 2020/21 home kit, donning the iconic Red Devils' badge.")
+![Man United players Marcus Rashford and Scott McTominay model the 2020/21 home kit, donning the iconic Red Devils' badge.](../uploads/manchester-united-20-21-home-kit-15-.jpg)
 
 The font used on the badge itself is ITC Stone Sans II. It is a sans-serif font and the fact that is part of the stone family of the ITC font makes it look more modern and dynamic compared to if it would have serifs or an informal style of the typeface. The choice of this font has been a smart one, as this particular badge was only introduced in 1998, over 20 years ago. It still looks relevant and with the times today despite it being around for that long, emphasising the intelligence with the choice of ITC as a font generally.
 
