@@ -11,4 +11,4 @@ The logo can be seen in multiple advertisements in different regions of the worl
 
 ![](../uploads/manchester-united-20-21-home-kit-15-.jpg "Man United players Marcus Rashford and Scott McTominay model the 2020/21 home kit, donning the iconic Red Devils' badge.")
 
-The font used on the badge itself is
+The font used on the badge itself is ITC Stone Sans II
