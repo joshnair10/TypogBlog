@@ -12,3 +12,5 @@ The logo can be seen in multiple advertisements in different regions of the worl
 ![](../uploads/manchester-united-20-21-home-kit-15-.jpg "Man United players Marcus Rashford and Scott McTominay model the 2020/21 home kit, donning the iconic Red Devils' badge.")
 
 The font used on the badge itself is ITC Stone Sans II. It is a sans-serif font and the fact that is part of the stone family of the ITC font makes it look more modern and dynamic compared to if it would have serifs or an informal style of the typeface. The choice of this font has been a smart one, as this particular badge was only introduced in 1998, over 20 years ago. It still looks relevant and with the times today despite it being around for that long, emphasising the intelligence with the choice of ITC as a font generally.
+
+It is now a logo that is synonymous with the club and its power in the business world as well as the football world, as is likely the only badge that is remembered by fans in this century despite there being 4/5 other badges that have been used in the history of the club.
