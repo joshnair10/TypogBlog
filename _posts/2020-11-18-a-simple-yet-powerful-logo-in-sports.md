@@ -9,4 +9,4 @@ This goes without saying: The NBA is the most popular and the most watched baske
 
 ![](../uploads/lbj-shirt.jpg)
 
-The logo is on the back of each jersey,
+The logo is on the back of each jersey, albeit a small print at the top. The colours of the logo are inspired by the colours of the flag that represents the country the NBA is in. It is, of course, the United States of America.
