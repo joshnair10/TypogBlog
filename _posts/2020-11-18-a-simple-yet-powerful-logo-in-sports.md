@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A simple yet powerful logo in sports
+title: A simple yet powerful logo in the world of sports
 date: 2020-11-04T05:04:41.586Z
 header_feature_image: ../uploads/nba-logo.png
 comments: true
