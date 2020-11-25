@@ -11,4 +11,4 @@ This goes without saying: The NBA is the most popular and the most watched baske
 
 The logo is on the back of each jersey, albeit a small print at the top. The colours of the logo are inspired by the colours of the flag that represents the country the NBA is in. It is, of course, the United States of America. The simplicity of the logo and the hesitation from the organisation to develop it any further shows how iconic it has become. It goes without saying that the marketability also is an incentive to keep the logo the way it is.
 
-The typeface that is used is also very uncomplicated, adopting the well-known helvetica, one of the most common sans-serif fonts along with Arial, Times New Roman and Verdana among others. These fonts are some of the most popular and used on the internet
+The typeface that is used is also very uncomplicated, adopting the well-known helvetica, one of the most common sans-serif fonts along with Arial, Times New Roman and Verdana among others. These fonts are some of the most popular and used on the internet, with certain typefaces such as Verdana being specifically designed for use on computers.
