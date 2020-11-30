@@ -9,7 +9,7 @@ The world of water sports is a very intense and often unforgiving place. Trainin
 
 ![](../uploads/phelps-fina.jpg)
 
-The logo has 6 stars to represent the 6 main water sports that FINA represents, and they are spread out across a slightly curved 2D map of the world, to show that they are 
+The logo has 6 stars to represent the 6 main water sports that FINA represents, and they are spread out across a slightly spherical map of the world, to show that they are international and inclusive of all countries and nationalities of athletes around the world.
 
 
 
