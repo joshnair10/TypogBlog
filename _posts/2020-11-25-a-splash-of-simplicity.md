@@ -13,4 +13,4 @@ The logo has 6 stars to represent the 6 main water sports that Fina represents, 
 
 The font of the word 'Fina' is very similar to Sarun Pro Narrow Ultra, a sans-serif font that is reliant on its boldness and thickness of each letter to jump out from the page/screen it is on to viewers. This, coupled with the obvious choice of a blue colour, gives the Fina typeface its own unique style and look on which it is noticeable and iconic in the sports world, whether it be in the corner of promotional posters for competitions or in advertisements for certain products.
 
-URW Grotesk SC Regular
+The text below the Fina word, 'Water is our world' URW Grotesk SC Regular
