@@ -15,4 +15,6 @@ The font of the word 'Fina' is very similar to Sarun Pro Narrow Ultra, a sans-se
 
 The text below the Fina word, 'Water is our world' is in the URW Grotesk SC Regular type face, another sans-serif font that is striking due to the thin, sharp shapes of the letters that are in bold, as it is in the Fina name, but contrasts in the sense that the slogan is in all capitals despite them being in a smaller size. 
 
-The use of sans-serif fonts in both the name and slogan of the Fina organisation could be due to their efforts to come across as a modern company that has simple goals to help the world of water sports thrive. The logo is more minimalistic and straightforward that the previous logo, which can be seen below, on which there are far too many details for the logo to be as noticeable or clear-cut as it is today.
+The use of sans-serif fonts in both the name and slogan of the Fina organisation could be due to their efforts to come across as a modern company that has simple goals to help the world of water sports thrive. The logo is more minimalistic and straightforward that the previous logo, which can be seen below, on which there are far too many details for the logo to be as noticeable or clear-cut as it is today. The font choice for the text at the bottom is also far too thin and subtle to catch the eye.
+
+![](../uploads/old-fina-logo.jpg)
