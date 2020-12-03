@@ -11,8 +11,6 @@ The world of water sports is a very intense and often unforgiving place. Trainin
 
 The logo has 6 stars to represent the 6 main water sports that Fina represents, and they are spread out across a slightly spherical map of the world, to show that they are international and inclusive of all countries and nationalities of athletes around the world, a point they try to make very clear with their public image. 
 
-The font of the word 'Fina' is very similar to Sarun Pro Narrow Ultra, a sans-serif font that is reliant on its boldness and thickness of each letter, almost jumping out from the page/screen it is on. Coupled with the obvious choice of a blue colour helps the Fina typeface 
-
- Sarun Pro Narrow Ultra
+The font of the word 'Fina' is very similar to Sarun Pro Narrow Ultra, a sans-serif font that is reliant on its boldness and thickness of each letter, almost jumping out from the page/screen it is on. Coupled with the obvious choice of a blue colour, the Fina typeface is given its own unique style and look on which it has 
 
 URW Grotesk SC Regular
